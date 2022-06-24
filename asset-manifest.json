@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PortFolio/static/css/main.71d903a7.css",
-    "main.js": "/PortFolio/static/js/main.dc7e3419.js",
+    "main.css": "/PortFolio/static/css/main.4dbd2d6c.css",
+    "main.js": "/PortFolio/static/js/main.13e61f53.js",
     "static/media/resume.pdf": "/PortFolio/static/media/resume.760e11dc831a6d78d2a2.pdf",
     "static/media/ecommerce.png": "/PortFolio/static/media/ecommerce.522da76635d52117102b.png",
     "static/media/sidebar.png": "/PortFolio/static/media/sidebar.b2225070b8adae68d063.png",
@@ -17,11 +17,11 @@
     "static/media/Vector2.png": "/PortFolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
     "static/media/glasses.png": "/PortFolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/PortFolio/index.html",
-    "main.71d903a7.css.map": "/PortFolio/static/css/main.71d903a7.css.map",
-    "main.dc7e3419.js.map": "/PortFolio/static/js/main.dc7e3419.js.map"
+    "main.4dbd2d6c.css.map": "/PortFolio/static/css/main.4dbd2d6c.css.map",
+    "main.13e61f53.js.map": "/PortFolio/static/js/main.13e61f53.js.map"
   },
   "entrypoints": [
-    "static/css/main.71d903a7.css",
-    "static/js/main.dc7e3419.js"
+    "static/css/main.4dbd2d6c.css",
+    "static/js/main.13e61f53.js"
   ]
 }
